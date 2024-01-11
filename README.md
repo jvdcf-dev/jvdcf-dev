@@ -1,16 +1,15 @@
-### Hi there 👋
+# 🧑‍💻 João Ferreira
 
-<!--
-**jvdcf-dev/jvdcf-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! 👋  
+I am a Portuguese developer ready to take new challenges and learn everything along the way.
+Currently, I am in the Faculty of Engineering of the University of Porto (FEUP) studying in the degree of computer science and computing engineering [(L.EIC)](https://paginas.fe.up.pt/~estudar/cursos/licenciatura-engenharia-informatica/).   
+**This is all to improve the world, bit by bit.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Projects:
+- [Uni Agenda](https://github.com/jvdcf/uni_agenda) (in progress)
+
+> [!NOTE]
+> Looking for **university projects**?  
+> Go to [@jvdcf](https://github.com/jvdcf): my university provided account.
