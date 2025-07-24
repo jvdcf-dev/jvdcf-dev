@@ -8,7 +8,7 @@ Currently, I am in the Faculty of Engineering of the University of Porto (FEUP) 
 ---
 
 ### Personal Projects:
-- [Uni Agenda](https://github.com/jvdcf-dev/uni_agenda) (in progress)
+- [Nix config](https://github.com/jvdcf-dev/nix)
 - [E-Redes Statistics](https://github.com/jvdcf-dev/eredes-statistics)
 
 > [!NOTE]
